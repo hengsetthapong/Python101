@@ -4,6 +4,6 @@ print('Hello non')
 
 print('Hello Github')
 
-friend = ['Moo','Poom','winner']
+friend = ['Mhor','Nat','Arm']
 
 print(friend[0])
